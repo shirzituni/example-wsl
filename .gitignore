@@ -1,0 +1,5 @@
+#CMake auto generated files
+build/
+
+#VScode auto generated files
+.vscode/
